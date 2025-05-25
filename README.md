@@ -1,6 +1,6 @@
-![logo](https://github.com/fahreziadh/typehere/assets/20290953/22dd6bca-038e-4c98-af69-ef37df8c25aa)
+![logo]([https://github.com/fahreziadh/typehere/assets/20290953/22dd6bca-038e-4c98-af69-ef37df8c25aa](https://github.com/capstone-spendee/.github/blob/main/profile/spendee-logo.png))
 
-<h1 align="center">Typehere</h1>
+<h1 align="center">Spendee</h1>
 <p align="center">
   An open-source form builder & survey.
 </p>
