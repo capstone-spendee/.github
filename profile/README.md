@@ -27,7 +27,7 @@ bun run build
 You can preview the production build with `npm run preview`.
 
 
-## Cloud Architecture
+## App Architecture
 <div align="center">
   <img src="https://github.com/capstone-spendee/.github/blob/main/profile/app-achitecture.png" alt="Arsitektur" >
 </div>
