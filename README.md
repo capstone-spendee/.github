@@ -25,3 +25,9 @@ bun run build
 ```
 
 You can preview the production build with `npm run preview`.
+
+
+## Cloud Architecture
+<div align="center">
+  <img src="https://github.com" alt="Arsitektur" width="500">
+</div>
