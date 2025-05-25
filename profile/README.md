@@ -29,5 +29,5 @@ You can preview the production build with `npm run preview`.
 
 ## Cloud Architecture
 <div align="center">
-  <img src="https://github.com/capstone-spendee/.github/blob/main/profile/app-achitecture.png" alt="Arsitektur" width="500">
+  <img src="https://github.com/capstone-spendee/.github/blob/main/profile/app-achitecture.png" alt="Arsitektur" >
 </div>
