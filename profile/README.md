@@ -10,10 +10,10 @@
 Once you've created a project and installed dependencies with `bun install`, start a development server:
 
 ```bash
-bun run dev
+npm run dev
 
 # or start the server and open the app in a new browser tab
-bun run dev 
+npm run dev 
 ```
 
 ## Building
@@ -21,7 +21,7 @@ bun run dev
 To create a production version of your app:
 
 ```bash
-bun run build
+npm run build
 ```
 
 You can preview the production build with `npm run preview`.
