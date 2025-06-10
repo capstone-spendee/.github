@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/capstone-spendee/.github/blob/main/profile/spendee-logo.png" alt="Spendee Logo" width="200">
+  <img src="https://github.com/capstone-spendee/.github/blob/main/profile/spendee-logo.png" alt="Spendee Logo" >
   
   # SPENDEE
   
