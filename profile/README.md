@@ -295,14 +295,14 @@ This project was made possible by a strong collaborative effort from our dedicat
 
 ### 🌟 Team Members
 
-| Name | Student ID | Role | Track |
-|------|------------|------|--------|
-| **Muhammad Rio Lintang Cahya** | MC007D5Y2165 | Machine Learning Engineer | Machine Learning |
-| **Silvi Kusuma Wardhani Gunawan** | MC813D5X2143 | Machine Learning Engineer | Machine Learning |
-| **Putri Indah Sari** | MC813D5X1836 | Machine Learning Engineer | Machine Learning |
-| **Rahmatullah Amat** | FC155D5Y0985 | Frontend - Backend Developer | Frontend Development |
-| **Irnanda Tri Santosa** | FC155D5Y0984 | Frontend - Backend Developer | Frontend Development |
-| **Cahyo Tri Atmojo** | FC007D5Y2238 | Frontend - Backend Developer | Backend Development |
+| Name | Student ID | Role | Track | Connect |
+|------|------------|------|--------|---------|
+| **Muhammad Rio Lintang Cahya** | MC007D5Y2165 | Machine Learning Engineer | Machine Learning | [LinkedIn](https://www.linkedin.com/posts/rio-lintang_lifeatcodingcamp-learnatdicoding-2ndccc-activity-7337778083900338176-yP6l?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3u5KgBcGHRGnzKBJCSAfz-iC8M3QK67Fk) |
+| **Silvi Kusuma Wardhani Gunawan** | MC813D5X2143 | Machine Learning Engineer | Machine Learning | [LinkedIn](https://www.linkedin.com/posts/activity-7337773145484865538-ApU4?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn5m8wBLhRWpW44QRUO9iscXB5U3x-Da4k) |
+| **Putri Indah Sari** | MC813D5X1836 | Machine Learning Engineer | Machine Learning | [LinkedIn](https://www.linkedin.com/posts/putriindah-sari_lifeatcodingcamp-learnatdicoding-2ndccc-activity-7337777783441342464-olVL?utm_source=share&utm_medium=member_android&rcm=ACoAAENtGKcBUkMrxvbgOx1iPVai2UVTTFty5Vk) |
+| **Rahmatullah Amat** | FC155D5Y0985 | Fullstack Developer | Frontend Development | [LinkedIn](https://www.linkedin.com/posts/rahmatullah-amat_lifeatcodingcamp-learnatdicoding-2ndccc-activity-7337829770769944577-5Nh5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFuT8rgBbJZCogjjy0tYOcf2vPCRju-iVQc) |
+| **Irnanda Tri Santosa** | FC155D5Y0984 | Fullstack Developer | Frontend Development | [LinkedIn](https://www.linkedin.com/posts/irnanda-tri-santosa-a6816826a_lifeatcodingcamp-learnatdicoding-2ndccc-activity-7337790194600857600-AFXP?utm_source=share&utm_medium=member_android&rcm=ACoAAEHgDfABjESYiR-W4W50-JQBn64k7d-Y_IE) |
+| **Cahyo Tri Atmojo** | FC007D5Y2238 | Fullsatck Developer | Backend Development | [LinkedIn](https://www.linkedin.com/posts/cahyotriatmojo_lifeatcodingcamp-learnatdicoding-2ndccc-activity-7337827941403250688-rlpS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1hLOYB5v_yR_by4nF-4Gz5ATUkjaFb1wI) |
 
 <div align="center">
   
