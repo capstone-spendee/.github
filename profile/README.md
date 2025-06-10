@@ -44,9 +44,9 @@
 ## 🚀 Features
 
 ### 🎯 Fitur Utama Website
-🏦 **Loan Approval** - Sistem penilaian otomatis berbasis AI untuk menentukan kelayakan peminjam dengan analisis mendalam terhadap profil finansial dan riwayat kredit
-🚀 **Eligibility Checker Startup** - Platform evaluasi komprehensif yang menganalisis potensi startup berdasarkan model bisnis, tim, market validation, dan proyeksi keuangan
-💼 **Risk Management Consultant** - AI-powered chatbot consultant yang memberikan insights strategis tentang manajemen risiko dan rekomendasi peningkatan skor kelayakan
+🏦 **Loan Approval** - Sistem penilaian otomatis berbasis AI untuk menentukan kelayakan peminjam dengan analisis mendalam terhadap profil finansial dan riwayat kredit<br>
+🚀 **Eligibility Checker Startup** - Platform evaluasi komprehensif yang menganalisis potensi startup berdasarkan model bisnis, tim, market validation, dan proyeksi keuangan<br>
+💼 **Risk Management Consultant** - AI-powered chatbot consultant yang memberikan insights strategis tentang manajemen risiko dan rekomendasi peningkatan skor kelayakan<br>
 
 
 ### 🔧 Fitur Teknis
