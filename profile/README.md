@@ -302,9 +302,9 @@ This project was made possible by a strong collaborative effort from our dedicat
 | **Muhammad Rio Lintang Cahya** | MC007D5Y2165 | Machine Learning Engineer | Machine Learning |
 | **Silvi Kusuma Wardhani Gunawan** | MC813D5X2143 | Machine Learning Engineer | Machine Learning |
 | **Putri Indah Sari** | MC813D5X1836 | Machine Learning Engineer | Machine Learning |
-| **Rahmatullah Amat** | FC155D5Y0985 | Frontend Developer | Frontend Development |
-| **Irnanda Tri Santosa** | FC155D5Y0984 | Frontend Developer | Frontend Development |
-| **Cahyo Tri Atmojo** | FC007D5Y2238 | Frontend Developer | Frontend Development |
+| **Rahmatullah Amat** | FC155D5Y0985 | Frontend - Backend Developer | Frontend Development |
+| **Irnanda Tri Santosa** | FC155D5Y0984 | Frontend - Backend Developer | Frontend Development |
+| **Cahyo Tri Atmojo** | FC007D5Y2238 | Frontend - Backend Developer | Backend Development |
 
 <div align="center">
   
