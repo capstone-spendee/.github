@@ -65,7 +65,7 @@
   
 | Category | Technology |
 |----------|------------|
-| **Frontend** | Next.js 14+, TypeScript, Tailwind CSS |
+| **Frontend** | Next.js 15+, TypeScript, Tailwind CSS |
 | **Authentication** | Cookie-based session management |
 | **Deployment** | Vercel Platform |
 | **Package Manager** | Bun (recommended) / npm |
