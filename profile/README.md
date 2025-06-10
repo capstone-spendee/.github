@@ -44,12 +44,10 @@
 ## 🚀 Features
 
 ### 🎯 Fitur Utama Website
-- 🔐 **Authentication System** - Login & register dengan security middleware
-- 👤 **Profile Management** - Update dan kelola informasi profil pengguna
-- 📊 **Eligibility Checker** - Analisis kelayakan startup dan personality assessment
-- 💬 **AI Chatbot Consultation** - Konsultasi pribadi dengan intelligent chatbot
-- 💱 **Currency Converter** - Real-time konversi Rupiah ke Dollar
-- 📝 **Feedback System** - Sistem feedback terintegrasi untuk improve user experience
+🏦 **Loan Approval** - Sistem penilaian otomatis berbasis AI untuk menentukan kelayakan peminjam dengan analisis mendalam terhadap profil finansial dan riwayat kredit
+🚀 **Eligibility Checker Startup** - Platform evaluasi komprehensif yang menganalisis potensi startup berdasarkan model bisnis, tim, market validation, dan proyeksi keuangan
+💼 **Risk Management Consultant** - AI-powered chatbot consultant yang memberikan insights strategis tentang manajemen risiko dan rekomendasi peningkatan skor kelayakan
+
 
 ### 🔧 Fitur Teknis
 - 📱 **Responsive Design** - Optimal untuk desktop dan mobile
